@@ -1,13 +1,23 @@
-----------------------------
 addappid(2483190)
-addtoken(2483190, "2264898939686399139")
-addappid(2483191, 1, "f2a09f0a31b4df681ec0d2d572f368dfa4cd6c37ae67ebdfd591cfbe1334fcd9")
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853")
-addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8")
+addtoken(2483190,"2264898939686399139")
+addappid(4439240)
+addappid(4439250)
+addappid(4439260)
+addappid(4439270)
+addappid(4439280)
+addappid(4439290)
+addappid(4439300)
+addappid(4439750)
+addappid(4439790)
+addappid(4439800)
+addappid(4439810)
+addappid(4439820)
+addappid(4439830)
+addappid(4439840)
+addappid(4440380)
 addappid(4444140)
 addappid(4444150)
---[[
-This file belongs to Ahmeds Bot Discord Server
------> join discord Server : https://discord.gg/sv6EGxCRnC
-]]
-----------------------------
+addappid(4520350)
+addappid(4520360)
+addappid(4562050)
+addappid(2483191,0,"f2a09f0a31b4df681ec0d2d572f368dfa4cd6c37ae67ebdfd591cfbe1334fcd9")
